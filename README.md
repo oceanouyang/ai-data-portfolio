@@ -39,6 +39,7 @@ assets/         # 总览图
 ## 阅读与复现
 
 - [14 页综合 PDF](portfolio.pdf)
+- [AI 变更记录](AI_CHANGELOG.md)
 - [个人贡献](docs/contribution.md) · [证据与局限](docs/evidence.md) · [素材说明](ASSETS.md)
 
 Python 3.10+，仅使用标准库，在根目录分别运行：
